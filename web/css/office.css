@@ -1,0 +1,85 @@
+.office-info {
+    display: inline-flex;
+    width: 100%;
+}
+
+.block-info {
+    width: 33%;
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: 1px solid;
+    height: 600px;
+    font-size: 15px;
+    overflow-y: auto;
+}
+
+.block-info input {
+    font-size: 15px;
+}
+
+.block-info button {
+    font-size: 15px;
+    width: 60%;
+}
+
+.block-info details {
+    font-size: 15px;
+}
+
+.block-info summary {
+    font-size: 15px;
+}
+
+.right-info {
+    text-align: right;
+    width: 20%;
+}
+
+.left-info {
+    width: 80%;
+    text-align: left;
+}
+
+.element{
+    width: 100%;
+    display: inline-flex;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.cost{
+    background-color: #fb484851;
+}
+
+.crediting{
+    background-color: #48fb484a;
+}
+
+.delete{
+    color: rgb(204, 0, 0);
+}
+
+.info-text{
+    text-align: left;
+}
+
+.total{
+    background-color: #ebff3772;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.filter-block{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 10px 0;
+}
+
+.hide{
+    display: none;
+}
