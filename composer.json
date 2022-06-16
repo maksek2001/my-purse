@@ -1,6 +1,6 @@
 {
-    "name": "maksek2001/myPurse",
-    "description": "myPurse",
+    "name": "maksek2001/my-purse",
+    "description": "My purse",
     "require": {
         "php": ">=5.6.0",
         "yiisoft/yii2": "~2.0.14",
