@@ -1,6 +1,6 @@
 {
-    "name": "maksek2001/rent_cars",
-    "description": "Rent Cars",
+    "name": "maksek2001/myPurse",
+    "description": "myPurse",
     "require": {
         "php": ">=5.6.0",
         "yiisoft/yii2": "~2.0.14",
